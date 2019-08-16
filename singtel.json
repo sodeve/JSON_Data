@@ -1,0 +1,81 @@
+[{
+	"Plan Name": "CIS Combo 1",
+	"Data (GB)": 0.1,
+	"Singtel WIFI (GB)": 0,
+	"TalkTime": 100,
+	"SMS": 500,
+	"Monthly Fee (SGD)": 22.59,
+	"Other Freebies": ""
+}, {
+	"Plan Name": "CIS Combo 12",
+	"Data (GB)": 12,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Monthly Fee (SGD)": 184.72,
+	"Other Freebies": "24 mths HBO GO, 24 mths Entertainment Plus, $500 yearly voucher, Free Caller-ID & AutoRoam"
+}, {
+	"Plan Name": "CIS Combo 2",
+	"Data (GB)": 2,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 200,
+	"SMS": 1000,
+	"Monthly Fee (SGD)": 30.89,
+	"Other Freebies": "24 mths Entertainment Plus (worth $5.90/mth)"
+}, {
+	"Plan Name": "CIS Combo 3",
+	"Data (GB)": 3,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Monthly Fee (SGD)": 53.05,
+	"Other Freebies": "24 mths Entertainment Plus"
+}, {
+	"Plan Name": "CIS Combo 6",
+	"Data (GB)": 6,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Monthly Fee (SGD)": 73.84,
+	"Other Freebies": "24 mths HBO GO (U.P. $13.98/mth), 24 mths Entertainment Plus"
+}, {
+	"Plan Name": "Combo 01",
+	"Data (GB)": 0.1,
+	"Singtel WIFI (GB)": 0,
+	"TalkTime": 100,
+	"SMS": 500,
+	"Monthly Fee (SGD)": 27.9,
+	"Other Freebies": ""
+}, {
+	"Plan Name": "Combo 02",
+	"Data (GB)": 2,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 200,
+	"SMS": 1000,
+	"Monthly Fee (SGD)": 42.9,
+	"Other Freebies": "24 mths Entertainment Plus (worth $5.90/mth)"
+}, {
+	"Plan Name": "Combo 03",
+	"Data (GB)": 3,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Monthly Fee (SGD)": 68.9,
+	"Other Freebies": "24 mths Entertainment Plus"
+}, {
+	"Plan Name": "Combo 06",
+	"Data (GB)": 6,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Monthly Fee (SGD)": 95.9,
+	"Other Freebies": "24 mths HBO GO (U.P. $13.98/mth), 24 mths Entertainment Plus"
+}, {
+	"Plan Name": "Combo 12",
+	"Data (GB)": 12,
+	"Singtel WIFI (GB)": 2,
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Monthly Fee (SGD)": 239.9,
+	"Other Freebies": "24 mths HBO GO, 24 mths Entertainment Plus, $500 yearly voucher, Free Caller-ID & AutoRoam"
+}]
