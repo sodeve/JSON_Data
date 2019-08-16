@@ -1,81 +1,251 @@
 [{
-	"Plan Name": "CIS Combo 1",
-	"Data (GB)": 0.1,
-	"Singtel WIFI (GB)": 0,
+	"Plan Name": "CIS Combo 01",
+	"Period": 24,
+	"Data": 0.1,
+	"WiFi": 0,
+	"Remarks": "",
 	"TalkTime": 100,
 	"SMS": 500,
-	"Monthly Fee (SGD)": 22.59,
-	"Other Freebies": ""
+	"Fee": 22.59,
+	"Freebies": ""
+}, {
+	"Plan Name": "CIS Combo 02",
+	"Period": 24,
+	"Data": 2,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 200,
+	"SMS": 1000,
+	"Fee": 30.89,
+	"Freebies": "Entertainment Plus (worth $5.90/mth)"
+}, {
+	"Plan Name": "CIS Combo 03",
+	"Period": 24,
+	"Data": 3,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Fee": 53.05,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "CIS Combo 06",
+	"Period": 24,
+	"Data": 6,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Fee": 73.84,
+	"Freebies": "HBO GO (U.P. $13.98/mth), Entertainment Plus"
 }, {
 	"Plan Name": "CIS Combo 12",
-	"Data (GB)": 12,
-	"Singtel WIFI (GB)": 2,
+	"Period": 24,
+	"Data": 12,
+	"WiFi": 2,
+	"Remarks": "",
 	"TalkTime": 10000,
 	"SMS": 10000,
-	"Monthly Fee (SGD)": 184.72,
-	"Other Freebies": "24 mths HBO GO, 24 mths Entertainment Plus, $500 yearly voucher, Free Caller-ID & AutoRoam"
-}, {
-	"Plan Name": "CIS Combo 2",
-	"Data (GB)": 2,
-	"Singtel WIFI (GB)": 2,
-	"TalkTime": 200,
-	"SMS": 1000,
-	"Monthly Fee (SGD)": 30.89,
-	"Other Freebies": "24 mths Entertainment Plus (worth $5.90/mth)"
-}, {
-	"Plan Name": "CIS Combo 3",
-	"Data (GB)": 3,
-	"Singtel WIFI (GB)": 2,
-	"TalkTime": 10000,
-	"SMS": 10000,
-	"Monthly Fee (SGD)": 53.05,
-	"Other Freebies": "24 mths Entertainment Plus"
-}, {
-	"Plan Name": "CIS Combo 6",
-	"Data (GB)": 6,
-	"Singtel WIFI (GB)": 2,
-	"TalkTime": 10000,
-	"SMS": 10000,
-	"Monthly Fee (SGD)": 73.84,
-	"Other Freebies": "24 mths HBO GO (U.P. $13.98/mth), 24 mths Entertainment Plus"
+	"Fee": 184.72,
+	"Freebies": "HBO GO, Entertainment Plus, $500 yearly voucher, Free Caller-ID & AutoRoam"
 }, {
 	"Plan Name": "Combo 01",
-	"Data (GB)": 0.1,
-	"Singtel WIFI (GB)": 0,
+	"Period": 24,
+	"Data": 0.1,
+	"WiFi": 0,
+	"Remarks": "",
 	"TalkTime": 100,
 	"SMS": 500,
-	"Monthly Fee (SGD)": 27.9,
-	"Other Freebies": ""
+	"Fee": 27.9,
+	"Freebies": ""
 }, {
 	"Plan Name": "Combo 02",
-	"Data (GB)": 2,
-	"Singtel WIFI (GB)": 2,
+	"Period": 24,
+	"Data": 2,
+	"WiFi": 2,
+	"Remarks": "",
 	"TalkTime": 200,
 	"SMS": 1000,
-	"Monthly Fee (SGD)": 42.9,
-	"Other Freebies": "24 mths Entertainment Plus (worth $5.90/mth)"
+	"Fee": 42.9,
+	"Freebies": "Entertainment Plus"
 }, {
 	"Plan Name": "Combo 03",
-	"Data (GB)": 3,
-	"Singtel WIFI (GB)": 2,
+	"Period": 24,
+	"Data": 3,
+	"WiFi": 2,
+	"Remarks": "",
 	"TalkTime": 10000,
 	"SMS": 10000,
-	"Monthly Fee (SGD)": 68.9,
-	"Other Freebies": "24 mths Entertainment Plus"
+	"Fee": 68.9,
+	"Freebies": "Entertainment Plus"
 }, {
 	"Plan Name": "Combo 06",
-	"Data (GB)": 6,
-	"Singtel WIFI (GB)": 2,
+	"Period": 24,
+	"Data": 6,
+	"WiFi": 2,
+	"Remarks": "",
 	"TalkTime": 10000,
 	"SMS": 10000,
-	"Monthly Fee (SGD)": 95.9,
-	"Other Freebies": "24 mths HBO GO (U.P. $13.98/mth), 24 mths Entertainment Plus"
+	"Fee": 95.9,
+	"Freebies": "HBO GO, Entertainment Plus"
 }, {
 	"Plan Name": "Combo 12",
-	"Data (GB)": 12,
-	"Singtel WIFI (GB)": 2,
+	"Period": 24,
+	"Data": 12,
+	"WiFi": 2,
+	"Remarks": "",
 	"TalkTime": 10000,
 	"SMS": 10000,
-	"Monthly Fee (SGD)": 239.9,
-	"Other Freebies": "24 mths HBO GO, 24 mths Entertainment Plus, $500 yearly voucher, Free Caller-ID & AutoRoam"
+	"Fee": 239.9,
+	"Freebies": "HBO GO, Entertainment Plus, $500 yearly voucher, Free Caller-ID & AutoRoam"
+}, {
+	"Plan Name": "Silver Combo 01",
+	"Period": 24,
+	"Data": 0.1,
+	"WiFi": 0,
+	"Remarks": "",
+	"TalkTime": 100,
+	"SMS": 500,
+	"Fee": 22.32,
+	"Freebies": ""
+}, {
+	"Plan Name": "Silver Combo 02",
+	"Period": 24,
+	"Data": 2,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 200,
+	"SMS": 1000,
+	"Fee": 34.32,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "Silver Combo 03",
+	"Period": 24,
+	"Data": 3,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Fee": 55.12,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "SIM Only 03 GB",
+	"Period": 0,
+	"Data": 6,
+	"WiFi": 2,
+	"Remarks": "5 GB + Bonus 10 GB Data, No Contract",
+	"TalkTime": 0,
+	"SMS": 0,
+	"Fee": 20,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "SIM Only 05 GB",
+	"Period": 12,
+	"Data": 15,
+	"WiFi": 2,
+	"Remarks": "5 GB + Bonus 10 GB Data",
+	"TalkTime": 500,
+	"SMS": 500,
+	"Fee": 20,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "SIM Only 10 GB",
+	"Period": 12,
+	"Data": 30,
+	"WiFi": 10000,
+	"Remarks": "10 GB + Bonus 20 GB Data, Unlimited WiFi",
+	"TalkTime": 500,
+	"SMS": 500,
+	"Fee": 36.05,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "SIM Only With Tab+ 06 GB",
+	"Period": 24,
+	"Data": 16,
+	"WiFi": 10000,
+	"Remarks": "6 GB + Bonus 10 GB Data, Unlimited WiFi",
+	"TalkTime": 150,
+	"SMS": 500,
+	"Fee": 29.9,
+	"Freebies": " "
+}, {
+	"Plan Name": "SIM Only With Tab+ 11 GB",
+	"Period": 24,
+	"Data": 31,
+	"WiFi": 10000,
+	"Remarks": "11 GB + Bonus 20 GB Data, Unlimited WiFi",
+	"TalkTime": 150,
+	"SMS": 500,
+	"Fee": 45.95,
+	"Freebies": " "
+}, {
+	"Plan Name": "XO 048",
+	"Period": 24,
+	"Data": 10,
+	"WiFi": 0,
+	"Remarks": "5 GB + Bonus 5 GB Data",
+	"TalkTime": 100,
+	"SMS": 100,
+	"Fee": 48,
+	"Freebies": "Free Weekend Local Data, Entertainment Plus"
+}, {
+	"Plan Name": "XO 078",
+	"Period": 24,
+	"Data": 40,
+	"WiFi": 0,
+	"Remarks": "30 GB + Bonus 10 GB Data",
+	"TalkTime": 300,
+	"SMS": 300,
+	"Fee": 78,
+	"Freebies": "Free Weekend Local Data, HBO GO, Entertainment Plus"
+}, {
+	"Plan Name": "XO 108",
+	"Period": 24,
+	"Data": 70,
+	"WiFi": 0,
+	"Remarks": "50 GB + Bonus 20 GB Data",
+	"TalkTime": 500,
+	"SMS": 500,
+	"Fee": 108,
+	"Freebies": "Free Weekend Local Data, HBO GO, Entertainment Plus"
+}, {
+	"Plan Name": "Youth Combo 01",
+	"Period": 24,
+	"Data": 0.1,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 100,
+	"SMS": 10000,
+	"Fee": 27.9,
+	"Freebies": ""
+}, {
+	"Plan Name": "Youth Combo 02",
+	"Period": 24,
+	"Data": 4,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Fee": 42.9,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "Youth Combo 03",
+	"Period": 24,
+	"Data": 7,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Fee": 68.9,
+	"Freebies": "Entertainment Plus"
+}, {
+	"Plan Name": "Youth Combo 06",
+	"Period": 24,
+	"Data": 7,
+	"WiFi": 2,
+	"Remarks": "",
+	"TalkTime": 10000,
+	"SMS": 10000,
+	"Fee": 95.9,
+	"Freebies": "HBO GO, Entertainment Plus"
 }]
