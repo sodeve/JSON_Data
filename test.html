@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Test Load JSON</title>
+        
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <textarea id="txResult" rows="20" style="width: 100%"></textarea>
+        <script type="text/javascript">
+        $(function(){
+            $.get("worldcup.players.json", function(data){
+                $("#txResult").val(JSON.stringify(data));
+            })
+        });
+        </script>
+    </body>
+</html>
