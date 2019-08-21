@@ -900,7 +900,7 @@
 				"age": 25,
 				"caps": 3,
 				"goals": 0,
-				"club": "Pe�arol",
+				"club": "Peñarol",
 				"club_nation": "Uruguay",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
 			},
@@ -930,13 +930,13 @@
 			},
 			{
 				"position": "MF",
-				"name": "Cristian Rodr�guez",
+				"name": "Cristian Rodríguez",
 				"isCaptain": false,
 				"dob": "1985-09-30T00:00:00",
 				"age": 32,
 				"caps": 105,
 				"goals": 11,
-				"club": "Pe�arol",
+				"club": "Peñarol",
 				"club_nation": "Uruguay",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
 			},
@@ -1546,7 +1546,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Fay�al Fajr",
+				"name": "Fayçal Fajr",
 				"isCaptain": false,
 				"dob": "1988-08-01T00:00:00",
 				"age": 29,
@@ -1612,7 +1612,7 @@
 				"age": 31,
 				"caps": 44,
 				"goals": 4,
-				"club": "Legan�s",
+				"club": "Leganés",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -1648,7 +1648,7 @@
 				"age": 21,
 				"caps": 16,
 				"goals": 2,
-				"club": "M�laga",
+				"club": "Málaga",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -1818,7 +1818,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Jo�o M�rio",
+				"name": "João Mário",
 				"isCaptain": false,
 				"dob": "1993-01-19T00:00:00",
 				"age": 25,
@@ -1950,7 +1950,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "C�dric",
+				"name": "Cédric",
 				"isCaptain": false,
 				"dob": "1991-08-31T00:00:00",
 				"age": 26,
@@ -1968,7 +1968,7 @@
 				"age": 36,
 				"caps": 14,
 				"goals": 0,
-				"club": "G�ztepe",
+				"club": "Göztepe",
 				"club_nation": "Turkey",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
 			},
@@ -2066,7 +2066,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Sa�l",
+				"name": "Saúl",
 				"isCaptain": false,
 				"dob": "1994-11-21T00:00:00",
 				"age": 23,
@@ -2084,7 +2084,7 @@
 				"age": 26,
 				"caps": 40,
 				"goals": 0,
-				"club": "Atl�tico Madrid",
+				"club": "Atlético Madrid",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -2126,7 +2126,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "�lvaro Odriozola",
+				"name": "Álvaro Odriozola",
 				"isCaptain": false,
 				"dob": "1995-12-14T00:00:00",
 				"age": 22,
@@ -2216,7 +2216,7 @@
 				"age": 29,
 				"caps": 20,
 				"goals": 7,
-				"club": "Atl�tico Madrid",
+				"club": "Atlético Madrid",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -2482,7 +2482,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "Danny Vukovic",
+				"name": "Danny Vuković",
 				"isCaptain": false,
 				"dob": "1985-03-27T00:00:00",
 				"age": 33,
@@ -2558,7 +2558,7 @@
 	{
 		"name": "Denmark",
 		"group": "Group C",
-		"coach": " �ge Hareide",
+		"coach": " Åge Hareide",
 		"players": [
 			{
 				"position": "GK",
@@ -2580,7 +2580,7 @@
 				"age": 35,
 				"caps": 59,
 				"goals": 6,
-				"club": "Deportivo La Coru�a",
+				"club": "Deportivo La Coruña",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -2592,13 +2592,13 @@
 				"age": 25,
 				"caps": 16,
 				"goals": 1,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
 			{
 				"position": "DF",
-				"name": "Simon Kj�r",
+				"name": "Simon Kjær",
 				"isCaptain": true,
 				"dob": "1989-03-26T00:00:00",
 				"age": 29,
@@ -2742,7 +2742,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "Jonas L�ssl",
+				"name": "Jonas Lössl",
 				"isCaptain": false,
 				"dob": "1989-02-01T00:00:00",
 				"age": 29,
@@ -2778,7 +2778,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Lasse Sch�ne",
+				"name": "Lasse Schöne",
 				"isCaptain": false,
 				"dob": "1986-05-27T00:00:00",
 				"age": 32,
@@ -2820,7 +2820,7 @@
 				"age": 25,
 				"caps": 6,
 				"goals": 0,
-				"club": "Br�ndby",
+				"club": "Brøndby",
 				"club_nation": "Denmark",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png"
 			},
@@ -2924,7 +2924,7 @@
 				"age": 27,
 				"caps": 54,
 				"goals": 20,
-				"club": "Atl�tico Madrid",
+				"club": "Atlético Madrid",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -2966,7 +2966,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Ousmane Demb�l�",
+				"name": "Ousmane Dembélé",
 				"isCaptain": false,
 				"dob": "1997-05-15T00:00:00",
 				"age": 21,
@@ -3092,7 +3092,7 @@
 				"age": 22,
 				"caps": 5,
 				"goals": 0,
-				"club": "Atl�tico Madrid",
+				"club": "Atlético Madrid",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -3142,13 +3142,13 @@
 			},
 			{
 				"position": "DF",
-				"name": "Alberto Rodr�guez",
+				"name": "Alberto Rodríguez",
 				"isCaptain": false,
 				"dob": "1984-03-31T00:00:00",
 				"age": 34,
 				"caps": 59,
 				"goals": 0,
-				"club": "Atl�tico Junior",
+				"club": "Atlético Junior",
 				"club_nation": "Colombia",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
 			},
@@ -3166,7 +3166,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Anderson Santamar�a",
+				"name": "Anderson Santamaría",
 				"isCaptain": false,
 				"dob": "1992-01-10T00:00:00",
 				"age": 26,
@@ -3220,7 +3220,7 @@
 				"age": 26,
 				"caps": 44,
 				"goals": 8,
-				"club": "S�o Paulo",
+				"club": "Sáo Paulo",
 				"club_nation": "Brazil",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
 			},
@@ -3250,7 +3250,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Ra�l Ruid�az",
+				"name": "Raúl Ruidíaz",
 				"isCaptain": false,
 				"dob": "1990-07-25T00:00:00",
 				"age": 27,
@@ -3486,7 +3486,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "�ver Banega",
+				"name": "Éver Banega",
 				"isCaptain": false,
 				"dob": "1988-06-29T00:00:00",
 				"age": 29,
@@ -3498,7 +3498,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Marcos Acu�a",
+				"name": "Marcos Acuña",
 				"isCaptain": false,
 				"dob": "1991-10-28T00:00:00",
 				"age": 26,
@@ -3534,7 +3534,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "�ngel Di Mar�a",
+				"name": "Ángel Di María",
 				"isCaptain": false,
 				"dob": "1988-02-14T00:00:00",
 				"age": 30,
@@ -3698,7 +3698,7 @@
 		"players": [
 			{
 				"position": "GK",
-				"name": "Dominik Livakovic",
+				"name": "Dominik Livaković",
 				"isCaptain": false,
 				"dob": "1995-01-09T00:00:00",
 				"age": 23,
@@ -3710,13 +3710,13 @@
 			},
 			{
 				"position": "DF",
-				"name": "�ime Vrsaljko",
+				"name": "Šime Vrsaljko",
 				"isCaptain": false,
 				"dob": "1992-01-10T00:00:00",
 				"age": 26,
 				"caps": 35,
 				"goals": 0,
-				"club": "Atl�tico Madrid",
+				"club": "Atlético Madrid",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -3818,7 +3818,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Marcelo Brozovic",
+				"name": "Marcelo Brozović",
 				"isCaptain": false,
 				"dob": "1992-11-16T00:00:00",
 				"age": 25,
@@ -3982,7 +3982,7 @@
 		"players": [
 			{
 				"position": "GK",
-				"name": "Hannes ��r Halld�rsson",
+				"name": "Hannes Þór Halldórsson",
 				"isCaptain": false,
 				"dob": "1984-04-27T00:00:00",
 				"age": 34,
@@ -3994,7 +3994,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Birkir M�r S�varsson",
+				"name": "Birkir Már Sævarsson",
 				"isCaptain": false,
 				"dob": "1984-11-11T00:00:00",
 				"age": 33,
@@ -4006,13 +4006,13 @@
 			},
 			{
 				"position": "MF",
-				"name": "Sam�el Fri�j�nsson",
+				"name": "Samúel Friðjónsson",
 				"isCaptain": false,
 				"dob": "1996-02-22T00:00:00",
 				"age": 22,
 				"caps": 4,
 				"goals": 0,
-				"club": "V�lerenga",
+				"club": "Vålerenga",
 				"club_nation": "Norway",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png"
 			},
@@ -4054,7 +4054,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "J�hann Berg Gu�mundsson",
+				"name": "Jóhann Berg Guðmundsson",
 				"isCaptain": false,
 				"dob": "1990-10-27T00:00:00",
 				"age": 27,
@@ -4078,7 +4078,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Bj�rn Bergmann Sigur�arson",
+				"name": "Björn Bergmann Sigurðarson",
 				"isCaptain": false,
 				"dob": "1991-02-26T00:00:00",
 				"age": 27,
@@ -4126,19 +4126,19 @@
 			},
 			{
 				"position": "GK",
-				"name": "R�nar Alex R�narsson",
+				"name": "Rúnar Alex Rúnarsson",
 				"isCaptain": false,
 				"dob": "1995-02-18T00:00:00",
 				"age": 23,
 				"caps": 3,
 				"goals": 0,
-				"club": "Nordsj�lland",
+				"club": "Nordsjælland",
 				"club_nation": "Denmark",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png"
 			},
 			{
 				"position": "DF",
-				"name": "K�ri �rnason",
+				"name": "Kári Árnason",
 				"isCaptain": false,
 				"dob": "1982-10-13T00:00:00",
 				"age": 35,
@@ -4150,7 +4150,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "H�lmar �rn Eyj�lfsson",
+				"name": "Hólmar Örn Eyjólfsson",
 				"isCaptain": false,
 				"dob": "1990-08-06T00:00:00",
 				"age": 27,
@@ -4162,13 +4162,13 @@
 			},
 			{
 				"position": "MF",
-				"name": "�lafur Ingi Sk�lason",
+				"name": "Ólafur Ingi Skúlason",
 				"isCaptain": false,
 				"dob": "1983-04-01T00:00:00",
 				"age": 35,
 				"caps": 36,
 				"goals": 1,
-				"club": "Kardemir Karab�kspor",
+				"club": "Kardemir Karabükspor",
 				"club_nation": "Turkey",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
 			},
@@ -4186,7 +4186,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "H�r�ur Bj�rgvin Magn�sson",
+				"name": "Hörður Björgvin Magnússon",
 				"isCaptain": false,
 				"dob": "1993-02-11T00:00:00",
 				"age": 25,
@@ -4210,7 +4210,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Emil Hallfre�sson",
+				"name": "Emil Hallfreðsson",
 				"isCaptain": false,
 				"dob": "1984-06-29T00:00:00",
 				"age": 33,
@@ -4234,7 +4234,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "J�n Da�i B��varsson",
+				"name": "Jón Daði Böðvarsson",
 				"isCaptain": false,
 				"dob": "1992-05-25T00:00:00",
 				"age": 26,
@@ -4536,7 +4536,7 @@
 				"age": 19,
 				"caps": 6,
 				"goals": 0,
-				"club": "Deportivo La Coru�a",
+				"club": "Deportivo La Coruña",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			}
@@ -4592,7 +4592,7 @@
 				"age": 32,
 				"caps": 2,
 				"goals": 0,
-				"club": "Gr�mio",
+				"club": "Grêmio",
 				"club_nation": "Brazil",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
 			},
@@ -4616,7 +4616,7 @@
 				"age": 32,
 				"caps": 33,
 				"goals": 2,
-				"club": "Atl�tico Madrid",
+				"club": "Atlético Madrid",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -4730,7 +4730,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "C�ssio",
+				"name": "Cássio",
 				"isCaptain": false,
 				"dob": "1987-06-06T00:00:00",
 				"age": 31,
@@ -4830,7 +4830,7 @@
 	{
 		"name": "Costa Rica",
 		"group": "Group E",
-		"coach": "�scar Ram�rez",
+		"coach": "Óscar Ramírez",
 		"players": [
 			{
 				"position": "GK",
@@ -4852,7 +4852,7 @@
 				"age": 34,
 				"caps": 69,
 				"goals": 2,
-				"club": "�guilas Doradas",
+				"club": "Águilas Doradas",
 				"club_nation": "Colombia",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
 			},
@@ -4876,7 +4876,7 @@
 				"age": 20,
 				"caps": 4,
 				"goals": 0,
-				"club": "Norrk�ping",
+				"club": "Norrköping",
 				"club_nation": "Sweden",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png"
 			},
@@ -4888,13 +4888,13 @@
 				"age": 30,
 				"caps": 113,
 				"goals": 21,
-				"club": "Deportivo La Coru�a",
+				"club": "Deportivo La Coruña",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
 			{
 				"position": "DF",
-				"name": "�scar Duarte",
+				"name": "Óscar Duarte",
 				"isCaptain": false,
 				"dob": "1989-06-03T00:00:00",
 				"age": 29,
@@ -5062,7 +5062,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "David Guzm�n",
+				"name": "David Guzmán",
 				"isCaptain": false,
 				"dob": "1990-02-18T00:00:00",
 				"age": 28,
@@ -5074,7 +5074,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Marco Ure�a",
+				"name": "Marco Ureña",
 				"isCaptain": false,
 				"dob": "1990-03-05T00:00:00",
 				"age": 28,
@@ -5118,7 +5118,7 @@
 		"players": [
 			{
 				"position": "GK",
-				"name": "Vladimir Stojkovic",
+				"name": "Vladimir Stojković",
 				"isCaptain": false,
 				"dob": "1983-07-28T00:00:00",
 				"age": 34,
@@ -5142,7 +5142,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Du�ko To�ic",
+				"name": "Duško Tošić",
 				"isCaptain": false,
 				"dob": "1985-01-19T00:00:00",
 				"age": 33,
@@ -5154,7 +5154,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Luka Milivojevic",
+				"name": "Luka Milivojević",
 				"isCaptain": false,
 				"dob": "1991-04-07T00:00:00",
 				"age": 27,
@@ -5166,7 +5166,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Uro� Spajic",
+				"name": "Uroš Spajić",
 				"isCaptain": false,
 				"dob": "1993-02-13T00:00:00",
 				"age": 25,
@@ -5178,7 +5178,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Branislav Ivanovic",
+				"name": "Branislav Ivanović",
 				"isCaptain": false,
 				"dob": "1984-02-22T00:00:00",
 				"age": 34,
@@ -5202,7 +5202,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Aleksandar Prijovic",
+				"name": "Aleksandar Prijović",
 				"isCaptain": false,
 				"dob": "1990-04-21T00:00:00",
 				"age": 28,
@@ -5214,7 +5214,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Aleksandar Mitrovic",
+				"name": "Aleksandar Mitrović",
 				"isCaptain": false,
 				"dob": "1994-09-16T00:00:00",
 				"age": 23,
@@ -5226,7 +5226,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Du�an Tadic",
+				"name": "Dušan Tadić",
 				"isCaptain": false,
 				"dob": "1988-11-20T00:00:00",
 				"age": 29,
@@ -5250,7 +5250,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "Predrag Rajkovic",
+				"name": "Predrag Rajković",
 				"isCaptain": false,
 				"dob": "1995-10-31T00:00:00",
 				"age": 22,
@@ -5262,7 +5262,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Milo� Veljkovic",
+				"name": "Miloš Veljković",
 				"isCaptain": false,
 				"dob": "1995-09-26T00:00:00",
 				"age": 22,
@@ -5286,7 +5286,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Nikola Milenkovic",
+				"name": "Nikola Milenković",
 				"isCaptain": false,
 				"dob": "1997-10-12T00:00:00",
 				"age": 20,
@@ -5334,7 +5334,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Luka Jovic",
+				"name": "Luka Jović",
 				"isCaptain": false,
 				"dob": "1997-12-23T00:00:00",
 				"age": 20,
@@ -5346,7 +5346,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Sergej Milinkovic-Savic",
+				"name": "Sergej Milinković-Savić",
 				"isCaptain": false,
 				"dob": "1995-02-27T00:00:00",
 				"age": 23,
@@ -5382,7 +5382,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "Marko Dmitrovic",
+				"name": "Marko Dmitrović",
 				"isCaptain": false,
 				"dob": "1992-01-24T00:00:00",
 				"age": 26,
@@ -5398,7 +5398,7 @@
 	{
 		"name": "Switzerland",
 		"group": "Group E",
-		"coach": "Vladimir Petkovic",
+		"coach": "Vladimir Petković",
 		"players": [
 			{
 				"position": "GK",
@@ -5408,7 +5408,7 @@
 				"age": 29,
 				"caps": 35,
 				"goals": 0,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -5444,7 +5444,7 @@
 				"age": 21,
 				"caps": 6,
 				"goals": 0,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -5498,7 +5498,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Haris Seferovic",
+				"name": "Haris Seferović",
 				"isCaptain": false,
 				"dob": "1992-02-22T00:00:00",
 				"age": 26,
@@ -5570,7 +5570,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Blerim D�emaili",
+				"name": "Blerim Džemaili",
 				"isCaptain": false,
 				"dob": "1986-04-12T00:00:00",
 				"age": 32,
@@ -5600,13 +5600,13 @@
 				"age": 21,
 				"caps": 10,
 				"goals": 0,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
 			{
 				"position": "FW",
-				"name": "Mario Gavranovic",
+				"name": "Mario Gavranović",
 				"isCaptain": false,
 				"dob": "1989-11-24T00:00:00",
 				"age": 28,
@@ -5624,7 +5624,7 @@
 				"age": 25,
 				"caps": 29,
 				"goals": 9,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -5642,7 +5642,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "Roman B�rki",
+				"name": "Roman Bürki",
 				"isCaptain": false,
 				"dob": "1990-11-14T00:00:00",
 				"age": 27,
@@ -5654,13 +5654,13 @@
 			},
 			{
 				"position": "DF",
-				"name": "Fabian Sch�r",
+				"name": "Fabian Schär",
 				"isCaptain": false,
 				"dob": "1991-12-20T00:00:00",
 				"age": 26,
 				"caps": 39,
 				"goals": 7,
-				"club": "Deportivo La Coru�a",
+				"club": "Deportivo La Coruña",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -5682,7 +5682,7 @@
 	{
 		"name": "Germany",
 		"group": "Group F",
-		"coach": "Joachim L�w",
+		"coach": "Joachim Löw",
 		"players": [
 			{
 				"position": "GK",
@@ -5728,7 +5728,7 @@
 				"age": 24,
 				"caps": 18,
 				"goals": 0,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -5854,7 +5854,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Niklas S�le",
+				"name": "Niklas Süle",
 				"isCaptain": false,
 				"dob": "1995-09-03T00:00:00",
 				"age": 22,
@@ -5878,7 +5878,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "J�r�me Boateng",
+				"name": "Jérôme Boateng",
 				"isCaptain": false,
 				"dob": "1988-09-03T00:00:00",
 				"age": 29,
@@ -5926,7 +5926,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Ilkay G�ndogan",
+				"name": "Ilkay Gündogan",
 				"isCaptain": false,
 				"dob": "1990-10-24T00:00:00",
 				"age": 27,
@@ -5938,7 +5938,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "Marc-Andr� ter Stegen",
+				"name": "Marc-André ter Stegen",
 				"isCaptain": false,
 				"dob": "1992-04-30T00:00:00",
 				"age": 26,
@@ -6018,7 +6018,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "�rick Guti�rrez",
+				"name": "Érick Gutiérrez",
 				"isCaptain": false,
 				"dob": "1995-06-15T00:00:00",
 				"age": 23,
@@ -6054,7 +6054,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Marco Fabi�n",
+				"name": "Marco Fabián",
 				"isCaptain": false,
 				"dob": "1989-07-21T00:00:00",
 				"age": 28,
@@ -6066,7 +6066,7 @@
 			},
 			{
 				"position": "FW",
-				"name": "Ra�l Jim�nez",
+				"name": "Raúl Jiménez",
 				"isCaptain": false,
 				"dob": "1991-05-05T00:00:00",
 				"age": 27,
@@ -6120,7 +6120,7 @@
 				"age": 32,
 				"caps": 94,
 				"goals": 0,
-				"club": "Standard Li�ge",
+				"club": "Standard Liège",
 				"club_nation": "Belgium",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
 			},
@@ -6162,7 +6162,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Jes�s Manuel Corona",
+				"name": "Jesús Manuel Corona",
 				"isCaptain": false,
 				"dob": "1993-01-06T00:00:00",
 				"age": 25,
@@ -6210,13 +6210,13 @@
 			},
 			{
 				"position": "DF",
-				"name": "Edson �lvarez",
+				"name": "Edson Álvarez",
 				"isCaptain": false,
 				"dob": "1997-10-24T00:00:00",
 				"age": 20,
 				"caps": 13,
 				"goals": 1,
-				"club": "Am�rica",
+				"club": "América",
 				"club_nation": "Mexico",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
 			},
@@ -6234,7 +6234,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Jes�s Gallardo",
+				"name": "Jesús Gallardo",
 				"isCaptain": false,
 				"dob": "1994-08-15T00:00:00",
 				"age": 23,
@@ -6562,7 +6562,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Victor Lindel�f",
+				"name": "Victor Lindelöf",
 				"isCaptain": false,
 				"dob": "1994-07-17T00:00:00",
 				"age": 23,
@@ -6664,7 +6664,7 @@
 				"age": 26,
 				"caps": 20,
 				"goals": 1,
-				"club": "Alav�s",
+				"club": "Alavés",
 				"club_nation": "Spain",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
 			},
@@ -7008,7 +7008,7 @@
 				"age": 25,
 				"caps": 11,
 				"goals": 1,
-				"club": "Borussia M�nchengladbach",
+				"club": "Borussia Mönchengladbach",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -7038,7 +7038,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Mousa Demb�l�",
+				"name": "Mousa Dembélé",
 				"isCaptain": false,
 				"dob": "1987-07-16T00:00:00",
 				"age": 30,
@@ -7386,7 +7386,7 @@
 	{
 		"name": "Panama",
 		"group": "Group G",
-		"coach": " Hern�n Dar�o G�mez",
+		"coach": " Hernán Darío Gómez",
 		"players": [
 			{
 				"position": "GK",
@@ -7474,7 +7474,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "�dgar B�rcenas",
+				"name": "Édgar Bárcenas",
 				"isCaptain": false,
 				"dob": "1993-10-23T00:00:00",
 				"age": 24,
@@ -7606,7 +7606,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Ricardo �vila",
+				"name": "Ricardo Ávila",
 				"isCaptain": false,
 				"dob": "1997-02-04T00:00:00",
 				"age": 21,
@@ -7642,7 +7642,7 @@
 			},
 			{
 				"position": "GK",
-				"name": "�lex Rodr�guez",
+				"name": "Álex Rodríguez",
 				"isCaptain": false,
 				"dob": "1990-08-05T00:00:00",
 				"age": 27,
@@ -7670,7 +7670,7 @@
 	{
 		"name": "Tunisia",
 		"group": "Group G",
-		"coach": "Nabil Ma�loul",
+		"coach": "Nabil Maâloul",
 		"players": [
 			{
 				"position": "GK",
@@ -7740,13 +7740,13 @@
 				"age": 28,
 				"caps": 8,
 				"goals": 0,
-				"club": "�toile du Sahel",
+				"club": "Étoile du Sahel",
 				"club_nation": "Tunisia",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png"
 			},
 			{
 				"position": "FW",
-				"name": "Sa�f-Eddine Khaoui",
+				"name": "Saîf-Eddine Khaoui",
 				"isCaptain": false,
 				"dob": "1995-04-27T00:00:00",
 				"age": 23,
@@ -7908,7 +7908,7 @@
 				"age": 24,
 				"caps": 6,
 				"goals": 1,
-				"club": "Esp�rance",
+				"club": "Espérance",
 				"club_nation": "Tunisia",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png"
 			},
@@ -7932,13 +7932,13 @@
 				"age": 23,
 				"caps": 3,
 				"goals": 0,
-				"club": "Ch�teauroux",
+				"club": "Châteauroux",
 				"club_nation": "France",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
 			},
 			{
 				"position": "FW",
-				"name": "Na�m Sliti",
+				"name": "Naïm Sliti",
 				"isCaptain": false,
 				"dob": "1992-07-27T00:00:00",
 				"age": 25,
@@ -7982,7 +7982,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "�scar Murillo",
+				"name": "Óscar Murillo",
 				"isCaptain": false,
 				"dob": "1988-04-18T00:00:00",
 				"age": 30,
@@ -8018,7 +8018,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Carlos S�nchez",
+				"name": "Carlos Sánchez",
 				"isCaptain": false,
 				"dob": "1986-02-06T00:00:00",
 				"age": 32,
@@ -8132,7 +8132,7 @@
 				"age": 27,
 				"caps": 8,
 				"goals": 0,
-				"club": "Am�rica",
+				"club": "América",
 				"club_nation": "Mexico",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
 			},
@@ -8162,7 +8162,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "Farid D�az",
+				"name": "Farid Díaz",
 				"isCaptain": false,
 				"dob": "1983-07-20T00:00:00",
 				"age": 34,
@@ -8222,7 +8222,7 @@
 			},
 			{
 				"position": "DF",
-				"name": "D�vinson S�nchez",
+				"name": "Dávinson Sánchez",
 				"isCaptain": false,
 				"dob": "1996-06-12T00:00:00",
 				"age": 22,
@@ -8332,7 +8332,7 @@
 				"age": 27,
 				"caps": 33,
 				"goals": 6,
-				"club": "Fortuna D�sseldorf",
+				"club": "Fortuna Düsseldorf",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -8368,7 +8368,7 @@
 				"age": 26,
 				"caps": 24,
 				"goals": 3,
-				"club": "Fortuna D�sseldorf",
+				"club": "Fortuna Düsseldorf",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -8416,7 +8416,7 @@
 				"age": 28,
 				"caps": 29,
 				"goals": 7,
-				"club": "1. FC K�ln",
+				"club": "1. FC Köln",
 				"club_nation": "Germany",
 				"club_nation_flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
 			},
@@ -8586,7 +8586,7 @@
 			},
 			{
 				"position": "MF",
-				"name": "Jacek G�ralski",
+				"name": "Jacek Góralski",
 				"isCaptain": false,
 				"dob": "1992-09-21T00:00:00",
 				"age": 25,
