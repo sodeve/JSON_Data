@@ -1,17 +1,103 @@
 <html>
-    <head>
-        <title>Test Load JSON</title>
+
+<head>
+    <title>Test Load JSON</title>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <textarea id="txResult" rows="20" style="width: 100%"></textarea>
+    <script type="text/javascript">
         
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    </head>
-    <body>
-        <textarea id="txResult" rows="20" style="width: 100%"></textarea>
-        <script type="text/javascript">
-        $(function(){
-            $.get("worldcup.players.json", function(data){
-                $("#txResult").val(JSON.stringify(data));
+        searchList = [];
+        function fnCheckCompletion() {
+            var now = new Date().getTime();
+            if ((now - lastUpdate) > 300000) { 
+
+                var text = JSON.stringify(window.footballData);
+                searchList.forEach(element => {
+                    text = text.replace(element.key, element.result);
+                });
+                $("#txResult").val(text);
+            }
+            else 
+                setTimeout(fnCheckCompletion, 5000);
+        }
+        function fnProcessQueue(idx) {
+            lastUpdate = new Date().getTime();
+            if (idx < searchList.length) {
+                var searchText = searchList[idx].key.replace(/�/g, "+");
+                            $.get("https://sodeve.net/tools/bing.suggest.php?q=" + searchText, function (strData) {
+                                var data = JSON.parse(strData);
+
+                                if (data && data.suggestionGroups 
+                                && Array.isArray(data.suggestionGroups)
+                                && data.suggestionGroups.length>0
+                                && data.suggestionGroups[0].searchSuggestions
+                                && Array.isArray(data.suggestionGroups[0].searchSuggestions)
+                                && data.suggestionGroups[0].searchSuggestions.length>0
+                                ) {
+                                    
+                                    var searchSuggest = data.suggestionGroups[0].searchSuggestions[0].query;
+                                    var suggestSearch = searchSuggest.replace(/ /g, '+');
+                                    $.post("https://api.duckduckgo.com/?q=" + suggestSearch + "&format=json&pretty=1", function(duck){
+                                        //var duck = JSON.parse(strDuck);
+                                        if (duck && duck.Heading){
+                                            searchList[idx].result = duck.Heading;
+                                        }
+                                        setTimeout(function(){ fnProcessQueue(idx+1);}, 2000);                                    
+                                    });
+                                }
+                                else {
+                                    setTimeout(function(){ fnProcessQueue(idx+1);}, 2000);
+                                }
+                            });
+            }
+        }
+
+        $(function () {
+            $.get("https://raw.githubusercontent.com/sodeve/JSON_Data/master/worldcup.players.json", function (data) {
+                window.footballData = JSON.parse(data);
+                lastUpdate = new Date().getTime();
+                setTimeout(fnCheckCompletion, 5000);
+                traverse(window.footballData);
+                fnProcessQueue(0);
             })
         });
-        </script>
-    </body>
+
+        
+
+        function sleep(milliseconds) {
+            var start = new Date().getTime();
+            for (var i = 0; i < 1e7; i++) {
+                if ((new Date().getTime() - start) > milliseconds) {
+                    break;
+                }
+            }
+        }
+
+        function traverse(obj) {
+            var t = typeof (obj);
+            if (t === "object") {
+                for (a in obj) {
+                    lastUpdate = new Date().getTime();
+                    var param = obj[a];
+                    if (typeof (param) == "string") {
+                        if (param.indexOf("�") >= 0) {                            
+                            var found = searchList.find(function(item){
+                                return item.key == param;
+                            });
+                            if (!found) searchList.push({key: param, result: ""});
+                        }
+                    }
+                    else if (typeof (obj[a] == "object")) {    
+                        lastUpdate = new Date().getTime();                    
+                        traverse(obj[a]);                        
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+
 </html>
