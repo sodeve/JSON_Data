@@ -1,0 +1,366 @@
+[{
+	"patient": "1",
+	"age": 66,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-20T07:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-21T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-22T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-23T00:00:00"
+	}],
+	"locations": [{
+		"name": "Shangri-La's Rasa Sentosa Resort and Spa",
+		"lat": 1.2577323,
+		"lng": 103.8076075,
+		"dateFrom": "2020-01-20T07:00:00",
+		"dateTo": "2020-01-21T07:00:00"
+	}, {
+		"name": "Singapore General Hospital",
+		"lat": 1.2795877,
+		"lng": 103.8336994,
+		"dateFrom": "2020-01-21T00:00:00",
+		"dateTo": "2020-01-21T00:00:00"
+	}],
+	"relations": [{
+		"name": "Father Of",
+		"id": 3
+	}],
+	"clusters": [],
+	"status": "Hospitalized",
+	"Hospital": "SGH",
+	"source": "https://www.moh.gov.sg/news-highlights/details/confirmed-imported-case-of-novel-coronavirus-infection-in-singapore-multi-ministry-taskforce-ramps-up-precautionary-measures"
+}, {
+	"patient": "2",
+	"age": 53,
+	"sex": "F",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-21T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-22T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-24T00:00:00"
+	}, {
+		"name": "Discharged",
+		"date": "2020-02-07T00:00:00"
+	}],
+	"locations": [{
+		"name": "J8 Hotel at 8 Townshend Road",
+		"lat": 1.3076071,
+		"lng": 103.8562758,
+		"dateFrom": "2020-01-21T00:00:00",
+		"dateTo": "2020-01-22T00:00:00"
+	}, {
+		"name": "Orchard Road",
+		"lat": 1.301674,
+		"lng": 103.8358879,
+		"dateFrom": "2020-01-22T00:00:00",
+		"dateTo": "2020-01-22T00:00:00"
+	}, {
+		"name": "Marina Bay Sands",
+		"lat": 1.301674,
+		"lng": 103.8293218,
+		"dateFrom": "2020-01-22T00:00:00",
+		"dateTo": "2020-01-22T00:00:00"
+	}, {
+		"name": "Gardens by the Bay",
+		"lat": 1.2827127,
+		"lng": 103.8607582,
+		"dateFrom": "2020-01-22T00:00:00",
+		"dateTo": "2020-01-22T00:00:00"
+	}],
+	"relations": "",
+	"clusters": "",
+	"status": "Discharged",
+	"Hospital": "NCID",
+	"source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-of-confirmed-imported-case-of-novel-coronavirus-infection-in-singapore"
+}, {
+	"patient": "3",
+	"age": 37,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-20T07:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-23T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-23T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-24T00:00:00"
+	}],
+	"locations": [{
+		"name": "Shangri-La's Rasa Sentosa Resort and Spa",
+		"lat": 1.2577323,
+		"lng": 103.8076075,
+		"dateFrom": "2020-01-20T07:00:00",
+		"dateTo": "2020-01-21T07:00:00"
+	}, {
+		"name": "Singapore General Hospital",
+		"lat": 1.2795877,
+		"lng": 103.8336994,
+		"dateFrom": "2020-01-23T00:00:00",
+		"dateTo": "2020-01-26T00:00:00"
+	}],
+	"relations": [{
+		"name": "Son Of",
+		"id": 1
+	}],
+	"clusters": [],
+	"status": "Hospitalized",
+	"Hospital": "SGH",
+	"source": "https://www.moh.gov.sg/news-highlights/details/two-more-cases-of-confirmed-imported-case-of-novel-coronavirus-infection-in-singapore"
+}, {
+	"patient": "4",
+	"age": 36,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-22T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-23T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-24T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-25T00:00:00"
+	}],
+	"locations": [{
+		"name": "Village Hotel Sentosa",
+		"lat": 1.2524012,
+		"lng": 103.8180095,
+		"dateFrom": "2020-01-22T00:00:00",
+		"dateTo": "2020-01-24T00:00:00"
+	}, {
+		"name": "Sengkang Community Hospital",
+		"lat": 1.3954614,
+		"lng": 103.891547,
+		"dateFrom": "2020-01-24T00:00:00",
+		"dateTo": "2020-01-24T00:00:00"
+	}],
+	"relations": [],
+	"clusters": ["no data"],
+	"status": "Hospitalized",
+	"Hospital": "SCH",
+	"source": "https://www.moh.gov.sg/news-highlights/details/fourth-confirmed-imported-case-of-wuhan-coronavirus-infection-in-singapore"
+}, {
+	"patient": "5",
+	"age": 56,
+	"sex": "F",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-18T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-24T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-26T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-27T00:00:00"
+	}],
+	"locations": [{
+		"name": "Ceylon Road",
+		"lat": 1.3085714,
+		"lng": 103.8984611,
+		"dateFrom": "2020-01-18T00:00:00",
+		"dateTo": "2020-01-26T00:00:00"
+	}],
+	"relations": [],
+	"clusters": ["no data"],
+	"status": "Hospitalized",
+	"Hospital": "NCID",
+	"source": "https://www.moh.gov.sg/news-highlights/details/fifth-confirmed-imported-case-of-wuhan-coronavirus-infection-in-singapore-27Jan"
+}, {
+	"patient": "6",
+	"age": 56,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-19T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-25T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-26T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-27T00:00:00"
+	}],
+	"locations": [{
+		"name": "Pasir Ris Grove",
+		"lat": 1.3710634,
+		"lng": 103.9430776,
+		"dateFrom": "2020-01-19T00:00:00",
+		"dateTo": "2020-01-26T00:00:00"
+	}],
+	"relations": [],
+	"clusters": ["no data"],
+	"status": "Hospitalized",
+	"Hospital": "CGH",
+	"source": "https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore"
+}, {
+	"patient": "7",
+	"age": 35,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-23T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-24T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-26T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-27T00:00:00"
+	}, {
+		"name": "Discharged",
+		"date": "2020-02-04T00:00:00"
+	}],
+	"locations": [{
+		"name": "Marina Bay Sands",
+		"lat": 1.301674,
+		"lng": 103.8293218,
+		"dateFrom": "2020-01-23T00:00:00",
+		"dateTo": "2020-01-26T00:00:00"
+	}],
+	"relations": [],
+	"clusters": ["no data"],
+	"status": "Discharged",
+	"Hospital": "NCID",
+	"source": "https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore"
+}, {
+	"patient": "8",
+	"age": 56,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-19T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-24T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-27T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-28T00:00:00"
+	}],
+	"locations": [{
+		"name": "Lorong Lew Lian",
+		"lat": 1.350348,
+		"lng": 103.8751198,
+		"dateFrom": "2020-01-19T00:00:00",
+		"dateTo": "2020-01-27T00:00:00"
+	}, {
+		"name": "Life Church and Mission Singapore",
+		"lat": 1.327994,
+		"lng": 103.8885229,
+		"dateFrom": null,
+		"dateTo": null
+	}],
+	"relations": ["no data"],
+	"clusters": ["Life Church and Missions Singapore"],
+	"status": "Hospitalized",
+	"Hospital": "NCID",
+	"source": "https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore"
+}, {
+	"patient": "9",
+	"age": 56,
+	"sex": "F",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-19T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-24T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-27T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-29T00:00:00"
+	}],
+	"locations": [{
+		"name": "Lorong Lew Lian",
+		"lat": 1.350348,
+		"lng": 103.8751198,
+		"dateFrom": "2020-01-19T00:00:00",
+		"dateTo": "2020-01-27T00:00:00"
+	}, {
+		"name": "Life Church and Mission Singapore",
+		"lat": 1.327994,
+		"lng": 103.8885229,
+		"dateFrom": null,
+		"dateTo": null
+	}],
+	"relations": [],
+	"clusters": ["Life Church and Missions Singapore"],
+	"status": "Hospitalized",
+	"Hospital": "NCID",
+	"source": "https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore"
+}, {
+	"patient": "10",
+	"age": 56,
+	"sex": "M",
+	"nationality": "PRC",
+	"origin": "Wuhan",
+	"timelines": [{
+		"name": "Arrived",
+		"date": "2020-01-20T00:00:00"
+	}, {
+		"name": "Symptoms Developed",
+		"date": "2020-01-21T00:00:00"
+	}, {
+		"name": "Hospitalized",
+		"date": "2020-01-28T00:00:00"
+	}, {
+		"name": "Confirmed",
+		"date": "2020-01-29T00:00:00"
+	}],
+	"locations": [{
+		"name": "Cargo Vessel",
+		"dateFrom": null,
+		"dateTo": null
+	}],
+	"relations": [],
+	"clusters": [],
+	"status": "Hospitalized",
+	"Hospital": "NCID",
+	"source": "https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-imported-cases-of-wuhan-coronavirus-infection-in-singapore"
+}]
