@@ -440,21 +440,4 @@
 	"Delivery ($)": 0,
 	"URL": "https://www.m1.com.sg/EShop/SunShineSimOnly/Plans/PlanBuilder",
 	"TnC": "https://www.circles.life/sg/terms-conditions/"
-}, {
-	"provider": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
-	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
-	"bandwidth (GB)": 100,
-	"Rollover": true,
-	"Unlimited": true,
-	"Talktime (mins)": 100,
-	"SMS": 25,
-	"monthly ($)": 48,
-	"Notes": "New Line",
-	"Excess Charge": " ",
-	"Registration ($)": 0,
-	"SIM Card ($)": 0,
-	"Caller ID ($)": 0,
-	"Delivery ($)": 0,
-	"URL": "https://www.circles.life/sg/",
-	"TnC": "https://www.circles.life/sg/terms-conditions/"
 }]
