@@ -86,20 +86,20 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/tpg.svg' title='TPG' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/tpg.svg' title='TPG' style='height:20pt;']",
-	"data (GB)": 60,
+	"data (GB)": 50,
 	"Rollover": false,
-	"Unlimited": true,
-	"Talktime (mins)": 9999,
-	"SMS": 20,
-	"monthly ($)": 0,
-	"Notes": "Trial 6 Month. No underground signal",
-	"Excess Charge": " Local landline 20 Mins",
+	"Unlimited": false,
+	"Talktime (mins)": 300,
+	"SMS": 30,
+	"monthly ($)": 10,
+	"Notes": "1 GB roaming data",
+	"Excess Charge": " $1/GB",
 	"Registration ($)": 0,
 	"SIM Card ($)": 0,
 	"Caller ID ($)": 0,
 	"Delivery ($)": 0,
 	"URL": "https://www.tpgmobile.sg/",
-	"TnC": "https://www.tpgmobile.sg/terms"
+	"TnC": "https://www.tpgmobile.sg/sites/tpgmobile/files/media/2020-03/CIS_TPG_MOBILE_30days_1.pdf"
 }, {
 	"provider": "[img src='/sencha/resources/images/myrepublic.png' title='MyRepublic' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
