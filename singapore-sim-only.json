@@ -451,8 +451,8 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/giga.svg' title='Giga' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
-	"plan name": "",
-	"data (GB)": 5,
+	"plan name": "$10",
+	"data (GB)": 6,
 	"Rollover": true,
 	"Unlimited": false,
 	"Talktime (mins)": 100,
@@ -469,8 +469,8 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/giga.svg' title='Giga' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
-	"plan name": "",
-	"data (GB)": 25,
+	"plan name": "$25",
+	"data (GB)": 45,
 	"Rollover": true,
 	"Unlimited": false,
 	"Talktime (mins)": 1000,
@@ -487,8 +487,8 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/giga.svg' title='Giga' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
-	"plan name": "",
-	"data (GB)": 50,
+	"plan name": "$45",
+	"data (GB)": 75,
 	"Rollover": true,
 	"Unlimited": false,
 	"Talktime (mins)": 10000,
