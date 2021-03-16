@@ -1,6 +1,7 @@
 [{
 	"provider": "[img src='/sencha/resources/images/circle.png' title='Circles Life' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
+	"plan name": "Unlimited 18",
 	"data (GB)": 20,
 	"Rollover": false,
 	"Unlimited": false,
@@ -18,6 +19,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/circle.png' title='Circles Life' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
+	"plan name": "Unlimited 28",
 	"data (GB)": 20,
 	"Rollover": false,
 	"Unlimited": false,
@@ -35,6 +37,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
+	"plan name": "Base",
 	"data (GB)": 40,
 	"Rollover": false,
 	"Unlimited": false,
@@ -52,6 +55,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
+	"plan name": "Base + 5",
 	"data (GB)": 50,
 	"Rollover": false,
 	"Unlimited": false,
@@ -69,6 +73,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
+	"plan name": "Base + 10",
 	"data (GB)": 90,
 	"Rollover": false,
 	"Unlimited": false,
@@ -86,6 +91,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/m1.png' title='M1' style='height:20pt;']",
+	"plan name": "Base + 25",
 	"data (GB)": 190,
 	"Rollover": false,
 	"Unlimited": false,
@@ -103,6 +109,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/zero1.png' title='Zero1' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "6u",
 	"data (GB)": 6,
 	"Rollover": false,
 	"Unlimited": true,
@@ -120,6 +127,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/zero1.png' title='Zero1' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "30u",
 	"data (GB)": 30,
 	"Rollover": false,
 	"Unlimited": true,
@@ -137,6 +145,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/vivifi.png' title='Vivifi' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "Lite",
 	"data (GB)": 3,
 	"Rollover": false,
 	"Unlimited": false,
@@ -154,6 +163,25 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/vivifi.png' title='Vivifi' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "Share",
+	"data (GB)": 120,
+	"Rollover": false,
+	"Unlimited": false,
+	"Talktime (mins)": 300,
+	"SMS": 100,
+	"monthly ($)": 31.9,
+	"Notes": "",
+	"Excess Charge": "$10.70/GB, Talkime $0.11/mins, SMS $0.05/sms.",
+	"Registration ($)": 0,
+	"SIM Card ($)": 0,
+	"Caller ID ($)": 0,
+	"Delivery ($)": 12,
+	"URL": "https://www.vivifi.me/vivifi_lite/",
+	"TnC": "https://www.vivifi.me/terms-conditions/"
+}, {
+	"provider": "[img src='/sencha/resources/images/vivifi.png' title='Vivifi' style='height:20pt;']",
+	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "",
 	"data (GB)": 40,
 	"Rollover": false,
 	"Unlimited": false,
@@ -171,6 +199,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/grid.png' title='Grid Mobile' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "",
 	"data (GB)": 40,
 	"Rollover": false,
 	"Unlimited": false,
@@ -188,6 +217,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "",
 	"data (GB)": 3,
 	"Rollover": false,
 	"Unlimited": false,
@@ -205,6 +235,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/gomo.png' title='Gomo' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/singtel.png' title='SingTel' style='height:20pt;']",
+	"plan name": "",
 	"data (GB)": 20,
 	"Rollover": false,
 	"Unlimited": false,
@@ -222,6 +253,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/myrepublic.png' title='MyRepublic' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 7,
 	"Rollover": false,
 	"Unlimited": true,
@@ -239,6 +271,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/myrepublic.png' title='MyRepublic' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 20,
 	"Rollover": false,
 	"Unlimited": true,
@@ -256,6 +289,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/myrepublic.png' title='MyRepublic' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 90,
 	"Rollover": false,
 	"Unlimited": true,
@@ -273,6 +307,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 5,
 	"Rollover": false,
 	"Unlimited": false,
@@ -290,6 +325,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 55,
 	"Rollover": false,
 	"Unlimited": true,
@@ -307,6 +343,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 30,
 	"Rollover": false,
 	"Unlimited": false,
@@ -324,6 +361,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 80,
 	"Rollover": false,
 	"Unlimited": true,
@@ -341,6 +379,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 60,
 	"Rollover": false,
 	"Unlimited": false,
@@ -358,6 +397,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 110,
 	"Rollover": false,
 	"Unlimited": true,
@@ -375,6 +415,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/giga.svg' title='Giga' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 5,
 	"Rollover": true,
 	"Unlimited": false,
@@ -392,6 +433,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/giga.svg' title='Giga' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 25,
 	"Rollover": true,
 	"Unlimited": false,
@@ -409,6 +451,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/giga.svg' title='Giga' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/starhub.svg' title='StarHub' style='height:15pt;']",
+	"plan name": "",
 	"data (GB)": 50,
 	"Rollover": true,
 	"Unlimited": false,
@@ -426,6 +469,7 @@
 }, {
 	"provider": "[img src='/sencha/resources/images/tpg.svg' title='TPG' style='height:20pt;']",
 	"network": "[img src='/sencha/resources/images/tpg.svg' title='TPG' style='height:20pt;']",
+	"plan name": "",
 	"data (GB)": 50,
 	"Rollover": false,
 	"Unlimited": false,
